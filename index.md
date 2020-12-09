@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/APBioNet/APBioNetTalks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/APBioNet/APBioNetTalks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##**Welcome to APBioNetTalks!** 
+This is a community initiative brought to you by Asia-Pacific Bioinformatics Network (APBioNet). It aims to provide an online avenue to showcase bioinformatics related talks, tutorials, and training. The program aims to make the learning of bioinformatics more engaging, inclusive and accessible. We will invite experts, early career researchers/scientists, and Ph.D. students to share their knowledge and skills. If you are interested to contribute, do get in touch with us. The videos will be live-streamed and be made available for later viewing. This materials will serve as an open bioinformatics resource for the community. In the process, we hope to promote the discovery and sharing of bioinformatics. Video-based learning resources for bioinformatics are still scarce. Some of them are not available in English. If available, they are not free. Even if they are free, they usually only cover the introduction aspects, with very basic discussions. Most of the specific and intermediate-to-advanced discussions or skills are usually not available. This hampers the learning of bioinformatics in solving complex biological problems. Through APBioNetTalks, we hope to contribute to bridge this gap by providing an open access video-based bioinformatics learning resources for the community.
+￼
+##**How to Get Involved**: 
+- Let us know what you think: share your thoughts on our services via [email](secretariat@apbionet.org), [Twitter](https://twitter.com/APBioNetorg) or [Facebook](https://web.facebook.com/apbionet). 
+- Become a supporting member: be a part of Asia Pacific bioinformatics community. Find out more about us on our [website](http://www.apbionet.org/). Share your expertise: if you are passionate about sharing bioinformatics-related expertise and skills to the community, we welcome you to contribute a talk/demo/tutorial/workshop to APBioNetTalks. 
+- Please help complete this [form](https://forms.gle/SAVsiaLFCidhykY8A), which would capture all the relevant information we need. You can make multiple submissions if you are keen to contribute more. Chair a Session: If you are interested in being a moderator for a talk/demo/workshop, please fill this [form](https://forms.gle/7DnKHPLEaf4Ko6pU8). We are committed to providing a welcoming and inspiring platform for all. Please follow our [code of conduct](https://apbtalks.apbionet.org/code-of-conduct/) in all kind of activities related to APBioNetTalks.
