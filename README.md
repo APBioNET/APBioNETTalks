@@ -31,6 +31,7 @@ Register for the talk now: https://bit.ly/apbionettalks1
 
 ### Structural Phylogenetics (Demo Talk)
 **January 9, 2021, 11 am - 1 pm SGT**
+
 ***Dr. Ashar Malik, Bioinformatics Institute, A*STAR, Singapore***
 
 ![alt text](https://github.com/APBioNet/APBioNetTalks/blob/main/APBtalks2.jpg)
