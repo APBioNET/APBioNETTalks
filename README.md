@@ -16,6 +16,7 @@ We are committed to providing a welcoming and inspiring platform for all. Please
 
 ### Revolutionising genome analysis with machine learning and cloud computing
 **December 15, 2020, 1-2 pm SGT**
+
 ***Dr Natalie Twine, Transformational Bioinformatics Group, CSIRO*** 
 
 Dr. Natalie Twine provides an insider’s view into the development of a Spark-based machine learning framework that is able to find disease genes in the 3 billion letters of the genome. She will also cover novel software, TRIBES, developed to uncover distant relatives based on their genome. Knowing relationship status is important for diagnosing and treating genetic diseases. Natalie will showcase how the technology has been used to understand and find treatments for motor neurone disease. Finally, Natalie will showcase hot-off-the-press cloud-native technology where CSIRO have advanced the COVID-19 response through digital health. 
