@@ -21,7 +21,7 @@ We are committed to providing a welcoming and inspiring platform for all. Please
 
 ***Dr. Natalie Twine, Transformational Bioinformatics Group, CSIRO*** 
 
-<img src="https://github.com/APBioNet/APBioNetTalks/blob/main/APBtalks1.jpg">
+<img src="APBtalks1.jpg">
 
 Dr. Natalie Twine provides an insider’s view into the development of a Spark-based machine learning framework that is able to find disease genes in the 3 billion letters of the genome. She will also cover novel software, TRIBES, developed to uncover distant relatives based on their genome. Knowing relationship status is important for diagnosing and treating genetic diseases. Natalie will showcase how the technology has been used to understand and find treatments for motor neurone disease. Finally, Natalie will showcase hot-off-the-press cloud-native technology where CSIRO have advanced the COVID-19 response through digital health. 
 
@@ -35,7 +35,7 @@ Dr. Natalie Twine is team lead of the Genome Insights team at CSIRO who focus on
 
 ***Dr. Ashar Malik, Bioinformatics Institute, A*STAR, Singapore***
 
-![alt text](https://github.com/APBioNet/APBioNetTalks/blob/main/APBtalks2.jpg)
+<img src="APBtalks2.jpg">
 
 The primary step in the process of characterising a novel protein sequence is by comparison with those already characterised. Similarity based functional characterisation and determination of an evolutionary origin can become a non-trivial problem for significantly diverged proteins. Protein structure, on the other hand, is considered to be conserved over longer evolutionary timescales. An evolutionary signal lost from the sequence may therefore still be retained within the conserved structure. Current times are seeing an exponential growth in protein structural data, presenting a unique opportunity to explore deep evolutionary questions. However a poor understanding of protein structural evolution prevents usage of classical sequence-based phylogenetic methods. Empirical distance-based methods have been employed, however the lack of a method to gauge the robustness of evolutionary relationships inferred limits their traction. A novel molecular dynamics-based bootstrap approach is presented which allows for the quantitative assessment of evolutionary relationships inferred from protein structural phylogenies. The novel ability to associate a measure of robustness with inferences allows protein structure-based phylogenies to uncover answers to deep evolutionary questions. In this talk sequence and structure-based phylogenetic methods will be looked at and (time permitting) a demonstration of structure-based phylogenetic analysis will be carried out. 
 
