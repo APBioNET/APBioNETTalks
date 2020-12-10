@@ -28,7 +28,7 @@ Dr. Natalie Twine provides an insider’s view into the development of a Spark-b
 **Bio:** 
 Dr. Natalie Twine is team lead of the Genome Insights team at CSIRO who focus on developing technology for population-scale genomics. Dr. Twine’s research career to date has focused on translational and clinical genomics and she is passionate about using technology to impact health and understand complex disease. Dr. Twine thrives on collaborative research and collaborates with Macquarie University, the International Project MinE consortium and others. Her publication record is strong, with 26 peer-reviewed publications, over 1030 citations and h-index of 14. Dr. Twine has presented at numerous international conferences including ISMB 2019 (Switzerland) and MND Symposium 2019 (Perth). She obtained her PhD in Bioinformatics from University of New South Wales and has previously worked at UNSW, Kings College London and University College London.
 
-Register for the talk now: https://bit.ly/apbionettalks1
+[Register for this talk now!](https://bit.ly/apbionettalks1)
 
 ### Structural Phylogenetics (Demo Talk)
 **January 9, 2021, 11 am - 1 pm SGT**
@@ -42,5 +42,5 @@ The primary step in the process of characterising a novel protein sequence is by
 **Bio:**
 Dr. Ashar completed his PhD in Computational Biochemistry from Massey University in 2018 where he developed the method to recover evolutionary information from protein structures. Currently, he is a postdoctoral research fellow at the Bioinformatics Institute, Agency for Science, Technology and Research (A*STAR) in Singapore. His current work focuses on developing tools for the annotation of variations in the human genome.
 
-Register for the talk now:https://bit.ly/apbionettalks2
+[Register for this talk now!](https://bit.ly/apbionettalks2)
 
