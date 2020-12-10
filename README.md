@@ -5,8 +5,11 @@ This is a community initiative brought to you by Asia-Pacific Bioinformatics Net
 
 ## **How to Get Involved** 
 **Let us know what you think:** share your thoughts on our services via [email](secretariat@apbionet.org), [Twitter](https://twitter.com/APBioNetorg) or [Facebook](https://web.facebook.com/apbionet). 
+
 **Become a supporting member:** be a part of Asia Pacific bioinformatics community. Find out more about us on our [website](http://www.apbionet.org/). 
+
 **Share your expertise:** if you are passionate about sharing bioinformatics-related expertise and skills to the community, we welcome you to contribute a talk/demo/tutorial/workshop to APBioNetTalks. Please help complete this [form](https://forms.gle/SAVsiaLFCidhykY8A), which would capture all the relevant information we need. You can make multiple submissions if you are keen to contribute more. 
+
 **Chair a Session:** If you are interested in being a moderator for a talk/demo/workshop, please fill this [form](https://forms.gle/7DnKHPLEaf4Ko6pU8). 
 
 We are committed to providing a welcoming and inspiring platform for all. Please follow our [code of conduct](https://apbtalks.apbionet.org/code-of-conduct/) in all kind of activities related to APBioNetTalks.
