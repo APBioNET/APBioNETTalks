@@ -8,9 +8,11 @@ This is a community initiative brought to you by Asia-Pacific Bioinformatics Net
 
 **Become a supporting member:** be a part of Asia Pacific bioinformatics community. Find out more about us on our [website](http://www.apbionet.org/). 
 
-**Share your expertise:** if you are passionate about sharing bioinformatics-related expertise and skills to the community, we welcome you to contribute a talk/demo/tutorial/workshop to APBioNetTalks. Please help complete this [form](https://forms.gle/SAVsiaLFCidhykY8A), which would capture all the relevant information we need. You can make multiple submissions if you are keen to contribute more. 
+**Share your expertise:** if you are passionate about sharing bioinformatics-related expertise and skills to the community, we welcome you to contribute a talk/demo/tutorial/workshop to APBioNetTalks. Please help complete this [form](https://bit.ly/APBioNetTalksForm2), which would capture all the relevant information we need. You can make multiple submissions if you are keen to contribute more. 
 
-**Chair a Session:** If you are interested in being a moderator for a talk/demo/workshop, please fill this [form](https://forms.gle/7DnKHPLEaf4Ko6pU8). 
+**Chair a Session:** If you are interested in being a moderator for a talk/demo/workshop, please fill this [form](https://bit.ly/APBioNetTalksForm2). 
+
+**Organising or Scientific committee members:** Join our team to bring inclusive and open access learning avenue for scientific community. Note that this is a pro bono. With your support, we hope we can continuously provide inclusive and accessible contents for you. We believe that open science will make research more reproducible, more transparent and more collaborative. Apply [here](https://bit.ly/APBioNetTalksForm2) 
 
 We are committed to providing a welcoming and inspiring platform for all. Please follow our [code of conduct](https://apbtalks.apbionet.org/code-of-conduct/) in all kind of activities related to APBioNetTalks.
 
