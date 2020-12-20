@@ -63,9 +63,9 @@ Hilyatuz Zahroh
 Mohammad Asif Khan
 
 **Recurring Contributors:**
-Li Chuin Chong
-Debangana Chakravorty 
-Deeksha Pandey
-Rizkyana Avissa
-Sharanya Manoharan
-More to come..
+- Li Chuin Chong
+- Debangana Chakravorty 
+- Deeksha Pandey
+- Rizkyana Avissa
+- Sharanya Manoharan
+- More to come..
