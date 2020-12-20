@@ -10,6 +10,7 @@ Table of Contents
     + [Structural Phylogenetics (Demo Talk) by *Dr Ashar Malik*](#structural-phylogenetics)
 - [Past Activities](#past-activities)
     + [Revolutionising genome analysis with machine learning and cloud computing by *Dr Natalie Twine*](#revolutionising-genome-analysis-with-machine-learning-and-cloud-computing)
+- [Contributors](#contributors)
 
 
 ## **How to Get Involved** 
@@ -49,3 +50,22 @@ Dr. Ashar completed his PhD in Computational Biochemistry from Massey University
 <img src="APBtalks1.jpg">
 
 **Highlight:**
+
+## *Contributors*
+**Creator:** 
+Hilyatuz Zahroh
+Mohammad Asif Khan
+
+**Program coordinator (2020-present):**
+Hilyatuz Zahroh
+
+**Scientific Committee:**
+Mohammad Asif Khan
+
+**Recurring Contributors:**
+Li Chuin Chong
+Debangana Chakravorty 
+Deeksha Pandey
+Rizkyana Avissa
+Sharanya Manoharan
+More to come..
