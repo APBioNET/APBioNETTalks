@@ -53,8 +53,8 @@ Dr. Ashar completed his PhD in Computational Biochemistry from Massey University
 
 ## *Contributors*
 **Creator:** 
-Hilyatuz Zahroh
-Mohammad Asif Khan
+- Hilyatuz Zahroh
+- Mohammad Asif Khan
 
 **Program coordinator (2020-present):**
 Hilyatuz Zahroh
