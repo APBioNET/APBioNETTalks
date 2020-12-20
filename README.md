@@ -7,7 +7,7 @@ Table of Contents
 ====================
 - [How to Get Involved](#how-to-get-involved)
 - [Upcoming Activities](#upcoming-activities)
-    + [Structural Phylogenetics (Demo Talk) by *Dr Ashar Malik*](#structural-phylogenetics)
+    + [Structural phylogenetics (Demo Talk) by *Dr Ashar Malik*](#structural-phylogenetics)
 - [Past Activities](#past-activities)
     + [Revolutionising genome analysis with machine learning and cloud computing by *Dr Natalie Twine*](#revolutionising-genome-analysis-with-machine-learning-and-cloud-computing)
 - [Contributors](#contributors)
@@ -28,7 +28,7 @@ We are committed to providing a welcoming and inspiring platform for all. Please
 
 ## *Upcoming Activities*
 
-### Structural Phylogenetics
+### Structural phylogenetics
 **January 9, 2021, 11 am - 1 pm SGT**
 
 ***Dr. Ashar Malik, Bioinformatics Institute, A*STAR, Singapore***
@@ -50,6 +50,7 @@ Dr. Ashar completed his PhD in Computational Biochemistry from Massey University
 <img src="APBtalks1.jpg">
 
 **Highlight:**
+
 
 ## *Contributors*
 **Creator:** 
