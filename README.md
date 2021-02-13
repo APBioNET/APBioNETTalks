@@ -28,19 +28,20 @@ We are committed to providing a welcoming and inspiring platform for all. Please
 
 ## *Upcoming Activities*
 
-### Structural phylogenetics
-**January 9, 2021, 11 am - 1 pm SGT**
+### 3D substructure searching and comparisons: methods, applications and directions
+**March 13, 2021, 11 am - 12 pm (MYT; GMT+8)**
 
-***Dr. Ashar Malik, Bioinformatics Institute, A*STAR, Singapore***
+***Assoc. Prof. Dr. Mohd Firdaus Raih, Universiti Kebangsaan Malaysia***
 
-<img src="APBTalks2%20ad.jpg">
+<img src="APBioNETTalks3_Rev3.png">
 
-The primary step in the process of characterising a novel protein sequence is by comparison with those already characterised. Similarity based functional characterisation and determination of an evolutionary origin can become a non-trivial problem for significantly diverged proteins. Protein structure, on the other hand, is considered to be conserved over longer evolutionary timescales. An evolutionary signal lost from the sequence may therefore still be retained within the conserved structure. Current times are seeing an exponential growth in protein structural data, presenting a unique opportunity to explore deep evolutionary questions. However a poor understanding of protein structural evolution prevents usage of classical sequence-based phylogenetic methods. Empirical distance-based methods have been employed, however the lack of a method to gauge the robustness of evolutionary relationships inferred limits their traction. A novel molecular dynamics-based bootstrap approach is presented which allows for the quantitative assessment of evolutionary relationships inferred from protein structural phylogenies. The novel ability to associate a measure of robustness with inferences allows protein structure-based phylogenies to uncover answers to deep evolutionary questions. In this talk sequence and structure-based phylogenetic methods will be looked at and (time permitting) a demonstration of structure-based phylogenetic analysis will be carried out. 
+The functions of biological macromolecules are dependent on their three-dimensional structures. Although the overall structure of these molecules are important for their functions, only a subset of residues are actively involved in a particular function mechanism. These functionally important residues are usually conserved as 3D substructures and/or motifs and are involved in molecular interactions as binding sites or catalytic mechanisms. In my research group, we have developed methods to identify and compare these 3D substructures in the structures of proteins and RNA. We have applied these methods to identify conserved functional sites in unrelated structures. In doing so, we can investigate the evolution of functional convergence in cases where similar motifs exist and carry out similar functions despite the overall structure being different with no detectable sequence or fold similarities. We also explore whether substructure searching methods could be deployed in applications such as drug development and synthetic biology. 
 
 **Bio:**
-Dr. Ashar completed his PhD in Computational Biochemistry from Massey University in 2018 where he developed the method to recover evolutionary information from protein structures. Currently, he is a postdoctoral research fellow at the Bioinformatics Institute, Agency for Science, Technology and Research (A*STAR) in Singapore. His current work focuses on developing tools for the annotation of variations in the human genome.
+Mohd Firdaus Raih is Chair of the Department of Applied Physics, Faculty of Science and Technology, Universiti Kebangsaan Malaysia. He has a BSc (Molecular and Cellular Biology - Biochemistry) from Universiti Kebangsaan Malaysia and a PhD (Molecular Biophysics) from the University of Sheffield. Firdaus' research is in the field of bioinformatics and molecular biophysics. His research group focuses on the computational analysis of macromolecular structures, and the discovery and characterization of genome encoded non-protein coding elements and regulatory systems.
 
-[Register for this talk now!](https://bit.ly/apbionettalks2)
+[Register for this talk now!](https://bit.ly/APBioNETTalks3)
+
 
 ## *Past Activities*
 
@@ -51,11 +52,23 @@ Dr. Ashar completed his PhD in Computational Biochemistry from Massey University
 
 **Highlight:**
 
-APBioNetTalks was inaugurated  on 15th December 2020 (Monday), featuring our first speaker Dr. Natalie Twine from Transformational Bioinformatics Group, CSIRO. The talk started  with opening remarks by one of the founders of APBioNet, Assoc. Prof. Tan Tin Wee from the National University of Singapore (NUS). He highlighted the need to spread bioinformatics throughout the Asia Pacific region and beyond, and was pleased to see the younger generation driving the current initiatives of APBioNet, something which is much needed for sustainability.
+APBioNetTalks was inaugurated on 15th December 2020 (Monday), featuring our first speaker Dr. Natalie Twine from Transformational Bioinformatics Group, CSIRO. The talk started  with opening remarks by one of the founders of APBioNet, Assoc. Prof. Tan Tin Wee from the National University of Singapore (NUS). He highlighted the need to spread bioinformatics throughout the Asia Pacific region and beyond, and was pleased to see the younger generation driving the current initiatives of APBioNet, something which is much needed for sustainability.
 
 The sessions continued with our first APBioNetTalks entitled “Revolutionising genome analysis with machine learning and cloud computing”. Dr Twine provided an insider’s view into the development of a Spark-based machine learning framework that is able to find disease genes among the three billion letters of the human genome. She also covered a new software, TRIBES, developed to uncover distant relatedness in genomic data. Knowing relationship status is important for diagnosing and treating genetic diseases. Dr. Twine showcased how technology has been used to understand and find treatments for motor neurone disease. Finally, she showcased hot-off-the-press cloud-native technology, where CSIRO has advanced the response to COVID-19 through digital health.
 
 You can view the full talk on our YouTube channel: [https://www.youtube.com/watch?v=AQrXVbVD-9s](https://www.youtube.com/watch?v=AQrXVbVD-9s)
+
+### Structural phylogenetics
+***Dr. Ashar Malik, Bioinformatics Institute, A*STAR, Singapore***
+
+<img src="APBTalks2%20ad.jpg">
+
+**Highlight:**
+Our second APBioNETTalks, which was a demo, took place on January 9, 2021 entitled “Structural Phylogenetics” and was delivered by Dr. Ashar Malik of Bioinformatics Institute, A*STAR, Singapore.
+
+The session provided a comprehensive yet accessible overview on sequence and structural phylogenetics. Dr. Ashar covered various topics under the theme, including pipelines and tools to use for performing evolutionary analysis, different kinds of statistical methods and phylogenetic tree generation approaches. He also provided a quick demo on how to utilize the command line interface for structure and sequence comparisons, as well as for tree generation.
+
+The talk was live-streamed on APBioNET YouTube channel and is also available for later viewing, in case you could not attend the talk or would like to revisit or share it with others: [https://youtu.be/yQZA47jiI3s](https://youtu.be/yQZA47jiI3s)
 
 Do subscribe to be notified on future talks.
 
