@@ -59,7 +59,7 @@ The sessions continued with our first APBioNetTalks entitled “Revolutionising 
 You can view the full talk on our YouTube channel: [https://www.youtube.com/watch?v=AQrXVbVD-9s](https://www.youtube.com/watch?v=AQrXVbVD-9s)
 
 ### Structural phylogenetics
-***Dr. Ashar Malik, Bioinformatics Institute, A*STAR, Singapore***
+***Dr. Ashar Malik, Bioinformatics Institute, A*STAR, Singapore**
 
 <img src="APBTalks2%20ad.jpg">
 
