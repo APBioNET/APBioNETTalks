@@ -11,7 +11,7 @@ Table of Contents
 - [Past Activities](#past-activities)
     + [Revolutionising genome analysis with machine learning and cloud computing by *Dr Natalie Twine*](#revolutionising-genome-analysis-with-machine-learning-and-cloud-computing)
     + [Structural phylogenetics (Demo Talk) by *Dr Ashar Malik*](#structural-phylogenetics)
-    + [3D substructure searching and comparisons: methods, applications and directions by *Assoc. Prof. Dr. Mohd Firdaus Raih*](#3d-substructure-searching-and-comparisons--methods--applications-and-directions)
+    + [3D substructure searching and comparisons: methods, applications and directions by *Assoc. Prof. Dr. Mohd Firdaus Raih*](#3d-substructure-searching-and-comparisons\:-methods\,-applications-and-directions)
 - [Contributors](#contributors)
 
 
