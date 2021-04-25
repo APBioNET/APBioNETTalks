@@ -7,9 +7,11 @@ Table of Contents
 ====================
 - [How to Get Involved](#how-to-get-involved)
 - [Upcoming Activities](#upcoming-activities)
-    + [Structural phylogenetics (Demo Talk) by *Dr Ashar Malik*](#structural-phylogenetics)
+    + [Why social media matters for research now more than ever by *Michelle Mendonca*](#why-social-media-matters-for-research-now-more-than-ever)
 - [Past Activities](#past-activities)
     + [Revolutionising genome analysis with machine learning and cloud computing by *Dr Natalie Twine*](#revolutionising-genome-analysis-with-machine-learning-and-cloud-computing)
+    + [Structural phylogenetics (Demo Talk) by *Dr Ashar Malik*](#structural-phylogenetics)
+    + [3D substructure searching and comparisons: methods, applications and directions by *Assoc. Prof. Dr. Mohd Firdaus Raih*](#3d-substructure-searching-and-comparisons--methods--applications-and-directions)
 - [Contributors](#contributors)
 
 
@@ -28,19 +30,19 @@ We are committed to providing a welcoming and inspiring platform for all. Please
 
 ## *Upcoming Activities*
 
-### 3D substructure searching and comparisons: methods, applications and directions
-**March 13, 2021, 11 am - 12 pm (MYT; GMT+8)**
+### Why social media matters for research now more than ever
+**May 12, 2021, 5 pm (MYT; GMT+8)**
 
-***Assoc. Prof. Dr. Mohd Firdaus Raih, Universiti Kebangsaan Malaysia***
+***Michelle Mendonca, EMBL-EBI***
 
-<img src="APBioNETTalks3_Rev3.png">
+<img src="APBioNet_Talks_4_advert.jpg">
 
-The functions of biological macromolecules are dependent on their three-dimensional structures. Although the overall structure of these molecules are important for their functions, only a subset of residues are actively involved in a particular function mechanism. These functionally important residues are usually conserved as 3D substructures and/or motifs and are involved in molecular interactions as binding sites or catalytic mechanisms. In my research group, we have developed methods to identify and compare these 3D substructures in the structures of proteins and RNA. We have applied these methods to identify conserved functional sites in unrelated structures. In doing so, we can investigate the evolution of functional convergence in cases where similar motifs exist and carry out similar functions despite the overall structure being different with no detectable sequence or fold similarities. We also explore whether substructure searching methods could be deployed in applications such as drug development and synthetic biology. 
+In this session, you will hear from Michelle on the increasing demand for researchers to build a digital presence with the onset of the COVID-19 pandemic and the role of social media in science communication. She will also cover examples of scientific organisations using innovative approaches to promote their research using social media, with insights on how BioExcel Centre of Excellence harnessed Twitter to build a successful computational biomolecular research community. Michelle will cover how to optimize your use of social media platforms along with “dos and don’ts” of building a digital presence. 
 
 **Bio:**
-Mohd Firdaus Raih is Chair of the Department of Applied Physics, Faculty of Science and Technology, Universiti Kebangsaan Malaysia. He has a BSc (Molecular and Cellular Biology - Biochemistry) from Universiti Kebangsaan Malaysia and a Ph.D. (Molecular Biophysics) from the University of Sheffield. Firdaus' research is in the field of bioinformatics and molecular biophysics. His research group focuses on the computational analysis of macromolecular structures, and the discovery and characterization of genome encoded non-protein coding elements and regulatory systems.
+Michelle is the Digital Strategy Officer at EMBL-EBI, where she is responsible for driving social strategy and content creation for European Commission funded projects such as BioExcel and CINECA. In her role, Michelle combines her background in science and her passion for storytelling to develop effective social media campaigns. Driven by data, Michelle is always tracking the latest trends, while ensuring the standard practice of accessibility is followed across digital platforms. Along with social media, Michelle also organises scientific courses and conferences at EMBL-EBI. Michelle holds a Master’s degree in Biotechnology from The University of Melbourne.
 
-[Register for this talk now!](https://bit.ly/APBioNETTalks3)
+[Register for this talk now!](https://bit.ly/APBioNETTalks4)
 
 
 ## *Past Activities*
@@ -71,6 +73,14 @@ The session provided a comprehensive yet accessible overview on sequence and str
 The talk was live-streamed on APBioNET YouTube channel and is also available for later viewing, in case you could not attend the talk or would like to revisit or share it with others: [https://youtu.be/yQZA47jiI3s](https://youtu.be/yQZA47jiI3s)
 
 Do subscribe to be notified on future talks.
+
+### 3D substructure searching and comparisons: methods, applications and directions
+***Assoc. Prof. Dr. Mohd Firdaus Raih, Universiti Kebangsaan Malaysia***
+
+<img src="APBioNETTalks3_Rev3.png">
+
+**Highlight:**
+
 
 
 ## *Contributors*
