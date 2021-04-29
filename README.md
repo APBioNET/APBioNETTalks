@@ -35,7 +35,7 @@ We are committed to providing a welcoming and inspiring platform for all. Please
 
 ***Michelle Mendonca, EMBL-EBI***
 
-<img src="APBioNet_Talks_4_advert.jpg">
+<img src="APBioNetTalks-advert4.png">
 
 In this session, you will hear from Michelle on the increasing demand for researchers to build a digital presence with the onset of the COVID-19 pandemic and the role of social media in science communication. She will also cover examples of scientific organisations using innovative approaches to promote their research using social media, with insights on how BioExcel Centre of Excellence harnessed Twitter to build a successful computational biomolecular research community. Michelle will cover how to optimize your use of social media platforms along with “dos and don’ts” of building a digital presence. 
 
@@ -80,7 +80,11 @@ Do subscribe to be notified on future talks.
 <img src="APBioNETTalks3_Rev3.png">
 
 **Highlight:**
+The third APBioNETTalks held on March 13, 2021 was presented by Assoc. Prof. Dr. Mohd Firdaus Raih of Universiti Kebangsaan Malaysia. The talk entitled “3D substructure searching and comparisons: methods, applications and directions” showcased the importance of comparing the substructure similarity of proteins and RNA molecules. Dr Firdaus and his team developed several tools to allow analysis of the PDB structure to annotate and characterise substructure similarities in known proteins. He categorically highlighted the advantage of using graph theory concepts and their applications in unraveling the “gems” hidden in the protein's structure. His talk emphasised the application of substructure study in areas of drug repositioning in cancer and infectious diseases, novel motif prediction, and modeling evolutionary trajectories.
 
+If you missed the talk, you can rewatch it here: [https://youtu.be/cs6xf-98kj0](https://youtu.be/cs6xf-98kj0)
+
+Do subscribe to our YouTube channel and APBioNET newsletter in order to not miss upcoming APBioNET events.
 
 
 ## *Contributors*
