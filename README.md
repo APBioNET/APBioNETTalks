@@ -31,11 +31,11 @@ We are committed to providing a welcoming and inspiring platform for all. Please
 ## *Upcoming Activities*
 
 ### Why social media matters for research now more than ever
-**May 12, 2021, 5 pm (MYT; GMT+8)**
+**June 17, 2021, 9am (GMT)**
 
 ***Michelle Mendonca, EMBL-EBI***
 
-<img src="APBioNetTalks-advert4.png">
+<img src="APBioNetTalks4-advert.png">
 
 In this session, you will hear from Michelle on the increasing demand for researchers to build a digital presence with the onset of the COVID-19 pandemic and the role of social media in science communication. She will also cover examples of scientific organisations using innovative approaches to promote their research using social media, with insights on how BioExcel Centre of Excellence harnessed Twitter to build a successful computational biomolecular research community. Michelle will cover how to optimize your use of social media platforms along with “dos and don’ts” of building a digital presence. 
 
