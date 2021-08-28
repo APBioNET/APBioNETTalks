@@ -29,20 +29,7 @@ Table of Contents
 We are committed to providing a welcoming and inspiring platform for all. Please follow our [code of conduct](https://apbtalks.apbionet.org/code-of-conduct/) in all kind of activities related to APBioNetTalks.
 
 ## *Upcoming Activities*
-
-### Why social media matters for research now more than ever
-**June 17, 2021, 9am (GMT)**
-
-***Michelle Mendonca, EMBL-EBI***
-
-<img src="APBioNetTalks4-advert.png">
-
-In this session, you will hear from Michelle on the increasing demand for researchers to build a digital presence with the onset of the COVID-19 pandemic and the role of social media in science communication. She will also cover examples of scientific organisations using innovative approaches to promote their research using social media, with insights on how BioExcel Centre of Excellence harnessed Twitter to build a successful computational biomolecular research community. Michelle will cover how to optimize your use of social media platforms along with “dos and don’ts” of building a digital presence. 
-
-**Bio:**
-Michelle is the Digital Strategy Officer at EMBL-EBI, where she is responsible for driving social strategy and content creation for European Commission funded projects such as BioExcel and CINECA. In her role, Michelle combines her background in science and her passion for storytelling to develop effective social media campaigns. Driven by data, Michelle is always tracking the latest trends, while ensuring the standard practice of accessibility is followed across digital platforms. Along with social media, Michelle also organises scientific courses and conferences at EMBL-EBI. Michelle holds a Master’s degree in Biotechnology from The University of Melbourne.
-
-[Register for this talk now!](https://bit.ly/APBioNETTalks4)
+# Stay Tuned!
 
 
 ## *Past Activities*
@@ -86,6 +73,15 @@ If you missed the talk, you can rewatch it here: [https://youtu.be/cs6xf-98kj0](
 
 Do subscribe to our YouTube channel and APBioNET newsletter in order to not miss upcoming APBioNET events.
 
+### Why social media matters for research now more than ever
+***Michelle Mendonca, EMBL-EBI***
+
+<img src="APBioNetTalks4-advert.png">
+
+**Highlight:**
+Our fourth APBioNETTalks took place on June 17, 2021 entitled “Why social media matters for research now more than ever” and was delivered by Michelle Mendonca of EMBL-EBI. In this talk, we learned from Michelle’s experience as the Digital Strategy Officer at EMBL-EBI on the advantages of social media in science and research communication. More and more researchers and research institutions have turned to social media to build their brand and promote their research. Michelle also provided an example on how social media can be used to build a successful research community. She shared some “dos and don’ts” in using social media to build a strong digital presence.
+
+Rewatch this talk on our YouTube channel and subscribe: [https://youtu.be/LgYM75rUNnI](https://youtu.be/LgYM75rUNnI)
 
 ## *Contributors*
 **Creator:** 
