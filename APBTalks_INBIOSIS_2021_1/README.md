@@ -1,7 +1,7 @@
 # Benchmarking de novo genome assembly methods
 ***Prof. Shoba Ranganathan, Macquarie University, Sydney***
 
-<img src="APBioNETTalks%20INBIOSIS%202021%201.png">
+<img src="APBioNETTalks_INBIOSIS_2021_1.png">
 
 **Abstract:**
 Genome sequencing has become routine, with 57144 genomes now available. This data tsunami has also spurred the development of a multitude of tools for assembly and analysis of genomes. Benchmarking has been done for bacterial genomes and some sequencing technologies. Here is a comprehensive benchmark of 20 assembly and 8 polishing tools for eukaryotic genome construction from the sequencing trinity: Illumina, Nanopore and PacBio, as well as coverage effects, for two gold standard model organisms, C. elegans and D. melanogaster.
