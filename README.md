@@ -11,7 +11,7 @@ Table of Contents
 - [Past Activities](#past-activities)
     + [Revolutionising genome analysis with machine learning and cloud computing by *Dr Natalie Twine*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_1)
     + [Structural phylogenetics (Demo Talk) by *Dr Ashar Malik*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_2)
-    + [Benchmarking de novo genome assembly methods by *Prof. Shoba Ranganathan*]()
+    + [Benchmarking de novo genome assembly methods by *Prof. Shoba Ranganathan*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_INBIOSIS_2021_1)
     + [3D substructure searching and comparisons: methods, applications and directions by *Assoc. Prof. Dr Mohd Firdaus Raih*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_3)
     + [Why social media matters for research now more than ever by *Michelle Mendonca*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_4)
 - [Contributors](#contributors)
@@ -45,7 +45,7 @@ Link to join the webinar: [Cisco Webex Link](http://tiny.cc/IAPB1_2022) & [FB li
 ## *Past Activities*
 - [**Revolutionising genome analysis with machine learning and cloud computing**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_1)
 - [**Structural phylogenetics**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_2)
-- [**Benchmarking de novo genome assembly methods**]()
+- [**Benchmarking de novo genome assembly methods**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_INBIOSIS_2021_1)
 - [**3D substructure searching and comparisons: methods, applications and directions**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_3)
 - [**Why social media matters for research now more than ever**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_4)
 
