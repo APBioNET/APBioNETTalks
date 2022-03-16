@@ -42,55 +42,10 @@ Systems Genomics has transcended from its native functional genomics to validati
 Link to join the webinar: [Cisco Webex Link](http://tiny.cc/IAPB1_2022) & [FB live](www.facebook.com/INBIOSISUKM/)
 
 ## *Past Activities*
-
-### Revolutionising genome analysis with machine learning and cloud computing
-***Dr. Natalie Twine, Transformational Bioinformatics Group, CSIRO*** 
-
-<img src="APBtalks1.jpg">
-
-**Highlight:**
-
-APBioNetTalks was inaugurated on 15th December 2020 (Monday), featuring our first speaker Dr. Natalie Twine from Transformational Bioinformatics Group, CSIRO. The talk started with opening remarks by one of the founders of APBioNet, Assoc. Prof. Tan Tin Wee from the National University of Singapore (NUS). He highlighted the need to spread bioinformatics throughout the Asia Pacific region and beyond, and was pleased to see the younger generation driving the current initiatives of APBioNet, something which is much needed for sustainability.
-
-The sessions continued with our first APBioNetTalks entitled “Revolutionising genome analysis with machine learning and cloud computing”. Dr Twine provided an insider’s view into the development of a Spark-based machine learning framework that is able to find disease genes among the three billion letters of the human genome. She also covered a new software, TRIBES, developed to uncover distant relatedness in genomic data. Knowing relationship status is important for diagnosing and treating genetic diseases. Dr. Twine showcased how technology has been used to understand and find treatments for motor neurone disease. Finally, she showcased hot-off-the-press cloud-native technology, where CSIRO has advanced the response to COVID-19 through digital health.
-
-You can view the full talk on our YouTube channel: [https://www.youtube.com/watch?v=AQrXVbVD-9s](https://www.youtube.com/watch?v=AQrXVbVD-9s)
-
-### Structural phylogenetics
-***Dr. Ashar Malik, Bioinformatics Institute, A*STAR, Singapore**
-
-<img src="APBTalks2%20ad.jpg">
-
-**Highlight:**
-Our second APBioNETTalks, which was a demo, took place on January 9, 2021 entitled “Structural Phylogenetics” and was delivered by Dr. Ashar Malik of Bioinformatics Institute, A*STAR, Singapore.
-
-The session provided a comprehensive yet accessible overview on sequence and structural phylogenetics. Dr. Ashar covered various topics under the theme, including pipelines and tools to use for performing evolutionary analysis, different kinds of statistical methods and phylogenetic tree generation approaches. He also provided a quick demo on how to utilize the command line interface for structure and sequence comparisons, as well as for tree generation.
-
-The talk was live-streamed on APBioNET YouTube channel and is also available for later viewing, in case you could not attend the talk or would like to revisit or share it with others: [https://youtu.be/yQZA47jiI3s](https://youtu.be/yQZA47jiI3s)
-
-Do subscribe to be notified on future talks.
-
-### 3D substructure searching and comparisons: methods, applications and directions
-***Assoc. Prof. Dr. Mohd Firdaus Raih, Universiti Kebangsaan Malaysia***
-
-<img src="APBioNETTalks3_Rev3.png">
-
-**Highlight:**
-The third APBioNETTalks held on March 13, 2021 was presented by Assoc. Prof. Dr. Mohd Firdaus Raih of Universiti Kebangsaan Malaysia. The talk entitled “3D substructure searching and comparisons: methods, applications and directions” showcased the importance of comparing the substructure similarity of proteins and RNA molecules. Dr Firdaus and his team developed several tools to allow analysis of the PDB structure to annotate and characterise substructure similarities in known proteins. He categorically highlighted the advantage of using graph theory concepts and their applications in unraveling the “gems” hidden in the protein's structure. His talk emphasised the application of substructure study in areas of drug repositioning in cancer and infectious diseases, novel motif prediction, and modeling evolutionary trajectories.
-
-If you missed the talk, you can rewatch it here: [https://youtu.be/cs6xf-98kj0](https://youtu.be/cs6xf-98kj0)
-
-Do subscribe to our YouTube channel and APBioNET newsletter in order to not miss upcoming APBioNET events.
-
-### Why social media matters for research now more than ever
-***Michelle Mendonca, EMBL-EBI***
-
-<img src="APBioNetTalks4-advert.png">
-
-**Highlight:**
-Our fourth APBioNETTalks took place on June 17, 2021 entitled “Why social media matters for research now more than ever” and was delivered by Michelle Mendonca of EMBL-EBI. In this talk, we learned from Michelle’s experience as the Digital Strategy Officer at EMBL-EBI on the advantages of social media in science and research communication. More and more researchers and research institutions have turned to social media to build their brand and promote their research. Michelle also provided an example on how social media can be used to build a successful research community. She shared some “dos and don’ts” in using social media to build a strong digital presence.
-
-Rewatch this talk on our YouTube channel and subscribe: [https://youtu.be/LgYM75rUNnI](https://youtu.be/LgYM75rUNnI)
+- [**Revolutionising genome analysis with machine learning and cloud computing**]()
+- [**Structural phylogenetics**]()
+- [**3D substructure searching and comparisons: methods, applications and directions**]()
+- [**Why social media matters for research now more than ever**]()
 
 ## *Contributors*
 **Creator:** 
