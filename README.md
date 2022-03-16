@@ -7,12 +7,12 @@ Table of Contents
 ====================
 - [How to Get Involved](#how-to-get-involved)
 - [Upcoming Activities](#upcoming-activities)
-    + [Rare disease genomics: Challenges and myths by *Dr. Prashanth N Suravajhala*](#rare-disease-genomics-challenges-and-myths)
+    + [Rare disease genomics: Challenges and myths by *Dr Prashanth N Suravajhala*](#rare-disease-genomics-challenges-and-myths)
 - [Past Activities](#past-activities)
-    + [Revolutionising genome analysis with machine learning and cloud computing by *Dr Natalie Twine*](#revolutionising-genome-analysis-with-machine-learning-and-cloud-computing)
-    + [Structural phylogenetics (Demo Talk) by *Dr Ashar Malik*](#structural-phylogenetics)
-    + [3D substructure searching and comparisons: methods, applications and directions by *Assoc. Prof. Dr. Mohd Firdaus Raih*](#3d-substructure-searching-and-comparisons-methods-applications-and-directions)
-    + [Why social media matters for research now more than ever by *Michelle Mendonca*](#why-social-media-matters-for-research-now-more-than-ever)
+    + [Revolutionising genome analysis with machine learning and cloud computing by *Dr Natalie Twine*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_1)
+    + [Structural phylogenetics (Demo Talk) by *Dr Ashar Malik*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_2)
+    + [3D substructure searching and comparisons: methods, applications and directions by *Assoc. Prof. Dr Mohd Firdaus Raih*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_3)
+    + [Why social media matters for research now more than ever by *Michelle Mendonca*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_4)
 - [Contributors](#contributors)
 
 
@@ -42,10 +42,10 @@ Systems Genomics has transcended from its native functional genomics to validati
 Link to join the webinar: [Cisco Webex Link](http://tiny.cc/IAPB1_2022) & [FB live](www.facebook.com/INBIOSISUKM/)
 
 ## *Past Activities*
-- [**Revolutionising genome analysis with machine learning and cloud computing**]()
-- [**Structural phylogenetics**]()
-- [**3D substructure searching and comparisons: methods, applications and directions**]()
-- [**Why social media matters for research now more than ever**]()
+- [**Revolutionising genome analysis with machine learning and cloud computing**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_1)
+- [**Structural phylogenetics**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_2)
+- [**3D substructure searching and comparisons: methods, applications and directions**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_3)
+- [**Why social media matters for research now more than ever**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_4)
 
 ## *Contributors*
 **Creator:** 
