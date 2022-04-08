@@ -7,13 +7,13 @@ Table of Contents
 ====================
 - [How to Get Involved](#how-to-get-involved)
 - [Upcoming Activities](#upcoming-activities)
-    + [Rare disease genomics: Challenges and myths by *Dr Prashanth N Suravajhala*](#rare-disease-genomics-challenges-and-myths)
 - [Past Activities](#past-activities)
     + [Revolutionising genome analysis with machine learning and cloud computing by *Dr Natalie Twine*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_1)
     + [Structural phylogenetics (Demo Talk) by *Dr Ashar Malik*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_2)
     + [Benchmarking de novo genome assembly methods by *Prof. Shoba Ranganathan*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_INBIOSIS_2021_1)
     + [3D substructure searching and comparisons: methods, applications and directions by *Assoc. Prof. Dr Mohd Firdaus Raih*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_3)
     + [Why social media matters for research now more than ever by *Michelle Mendonca*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_4)
+    + [Rare disease genomics: Challenges and myths by *Dr Prashanth N Suravajhala*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_INBIOSIS_2022_1)
 - [Contributors](#contributors)
 
 
@@ -32,15 +32,7 @@ We are committed to providing a welcoming and inspiring platform for all. Please
 
 ## *Upcoming Activities*
 
-### Rare disease genomics: Challenges and myths
-***Dr. Prashanth N. Suravajhala, Amrita School of Biotechnology, India***
-
-![Inbiosis_APBioNETTalks_2022_1](https://user-images.githubusercontent.com/51225708/158515211-bdb96892-55b7-4b50-8858-066dfc07a0f6.jpeg)
-
-**Abstract:** <br>
-Systems Genomics has transcended from its native functional genomics to validation biology in its own vivid ways. Thanks to next-generation sequencing (NGS) approaches, there arose a need to develop several pipelines to infer pathogenic mutations. However, for inferring rare diseases, the chance of identifying pathogenic spectrum varies and would be a difficult conundrum in establishing de novo heterozygous missense variants. Furthermore, the discovery of variants of unknown significance (VUS) could provide insights into the rare disease manifestation and its etiology. The variants are further validated for revealing disease-causing mutations which could close the gaps of surgery by bringing intervention in therapies. Whole Exome Sequencing (WES) has been an invaluable and cost-effective approach to identify genetic variants responsible for both Mendelian and polygenic diseases. In the recent past, it has allowed detecting clinically relevant genomic regions spanning the known unknown regions, disease-associated sites and untranslated regions (UTRs). In addition to the well-known diseases, prenatal abnormalities, structural anomalies and congenital defects were studied demonstrating a good diagnostic yield. While WES approaches are abundant, they are limited if the disease in question is characteristically rare and medically inconclusive. This could be a deterrent because of the challenges in variant discovery, including rare and low-frequency mutations using next-generation sequencing (NGS) technologies. Recent decrease in cost of WES and accuracy of the NGS has enabled the researchers to study a large number of WES samples but in case of rare diseases, studying exome-trios (proband/parents) or quad, with an addition of sibling to discover single nucleotide variations (SNVs). The talk would delve upon myths, misconceptions and facts from our case studies.
-
-Link to join the webinar: [Cisco Webex Link](http://tiny.cc/IAPB1_2022) & [FB live](www.facebook.com/INBIOSISUKM/)
+Stay tune for the upcoming activities. Meanwhile, you may view our previous talk from [APBioNETTalks YouTube playlist](https://www.youtube.com/playlist?list=PLM4Be87TgG8U1lx4qc1veuHynCw-fcSxi).
 
 ## *Past Activities*
 - [**Revolutionising genome analysis with machine learning and cloud computing**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_1)
@@ -48,6 +40,7 @@ Link to join the webinar: [Cisco Webex Link](http://tiny.cc/IAPB1_2022) & [FB li
 - [**Benchmarking de novo genome assembly methods**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_INBIOSIS_2021_1)
 - [**3D substructure searching and comparisons: methods, applications and directions**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_3)
 - [**Why social media matters for research now more than ever**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_4)
+- [**Rare disease genomics: Challenges and myths**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_INBIOSIS_2022_1)
 
 ## *Contributors*
 **Creator:** 
