@@ -7,7 +7,8 @@ Table of Contents
 ====================
 - [How to Get Involved](#how-to-get-involved)
 - [Upcoming Activities](#upcoming-activities)
-    + [Sugars in the cloud: Machine learning and data science for glycobiology by *Dr Daniel Bojar*](#sugars-in-the-cloud--machine-learning-and-data-science-for-glycobiology)    
+    + Sugars in the cloud: Machine learning and data science for glycobiology by *Dr Daniel Bojar*
+    + Applications of long read sequencing in plant genomics by *Prof. Dr. Boas Pucker*
 - [Past Activities](#past-activities)
     + [Revolutionising genome analysis with machine learning and cloud computing by *Dr Natalie Twine*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_1)
     + [Structural phylogenetics (Demo Talk) by *Dr Ashar Malik*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_2)
@@ -31,6 +32,8 @@ Table of Contents
 
 We are committed to providing a welcoming and inspiring platform for all. Please follow our [code of conduct](https://apbtalks.apbionet.org/code-of-conduct/) in all kind of activities related to APBioNetTalks.
 
+---
+
 ## *Upcoming Activities*
 
 ### Sugars in the cloud: Machine learning and data science for glycobiology
@@ -45,6 +48,20 @@ Glycans or complex carbohydrates are a universal yet understudied biological seq
 
 [Register for this talk now!](https://bit.ly/APBTalks5)
 
+### Applications of long read sequencing in plant genomics
+**October 17, 2022, 2pm (SGT)**
+
+***Prof. Dr. Boas Pucker, Institute of Plant Biology, TU Braunschweig, Germany***
+
+![APBTalks6](https://user-images.githubusercontent.com/51225708/190584554-2da22346-5e96-463c-84ea-e781fc3e9d97.png)
+
+**Abstract:** <br> 
+Long read sequencing revolutionized plant genomics, because even large and complex genomes became accessible. These third generation sequencing technologies are offered by Oxford Nanopore Technologies (ONT) and Pacific Biosciences (PacBio). Selected applications of these long read technologies will be presented in this talk with particular focus on the applied tools and approaches.
+
+[Register for this talk now!](https://bit.ly/APBTalks6)
+
+---
+
 ## *Past Activities*
 - [**Revolutionising genome analysis with machine learning and cloud computing**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_1)
 - [**Structural phylogenetics**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_2)
@@ -52,6 +69,8 @@ Glycans or complex carbohydrates are a universal yet understudied biological seq
 - [**3D substructure searching and comparisons: methods, applications and directions**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_3)
 - [**Why social media matters for research now more than ever**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_4)
 - [**Rare disease genomics: Challenges and myths**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_INBIOSIS_2022_1)
+
+---
 
 ## *Contributors*
 **Creator:** 
