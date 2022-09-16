@@ -7,8 +7,7 @@ Table of Contents
 ====================
 - [How to Get Involved](#how-to-get-involved)
 - [Upcoming Activities](#upcoming-activities)
-    + [Sugars in the cloud: Machine learning and data science for glycobiology by *Dr Daniel Bojar*]
-    
+    + [Sugars in the cloud: Machine learning and data science for glycobiology by *Dr Daniel Bojar*](#sugars-in-the-cloud--machine-learning-and-data-science-for-glycobiology)    
 - [Past Activities](#past-activities)
     + [Revolutionising genome analysis with machine learning and cloud computing by *Dr Natalie Twine*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_1)
     + [Structural phylogenetics (Demo Talk) by *Dr Ashar Malik*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_2)
@@ -39,6 +38,9 @@ We are committed to providing a welcoming and inspiring platform for all. Please
 
 ***Dr. Daniel Bojar, University of Gothenburg, Sweden***
 
+![APBTalks5](https://user-images.githubusercontent.com/51225708/190582654-91d7b800-26c6-40eb-83ba-b26c44c87eac.png)
+
+**Abstract:** <br>
 Glycans or complex carbohydrates are a universal yet understudied biological sequence with unique properties. The crucial role of glycans in autoimmunity, viral infections, cancer, microbiome development, and many other processes holds promise for translating a better understanding of glycan functions into biomedical advances. Dr. Bojar will present the efforts of his research group to achieve this. Developing and applying data science and machine learning methods for glycobiology has, among others, provided insight into glycan - protein interactions, glycan - immune interactions, and glycan - pathogen interactions. In a two-pronged approach, Dr. Bojar's group both uses new methods to discover these new facets of glycobiolgoy but also makes these methods freely available to the community via their Python package glycowork, to build a firm foundation for computational glycobiology.
 
 [Register for this talk now!](https://bit.ly/APBTalks5)
