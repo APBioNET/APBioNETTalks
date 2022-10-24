@@ -7,8 +7,6 @@ Table of Contents
 ====================
 - [How to Get Involved](#how-to-get-involved)
 - [Upcoming Activities](#upcoming-activities)
-    + Sugars in the cloud: Machine learning and data science for glycobiology by *Dr Daniel Bojar*
-    + Applications of long read sequencing in plant genomics by *Prof. Dr. Boas Pucker*
 - [Past Activities](#past-activities)
     + [Revolutionising genome analysis with machine learning and cloud computing by *Dr Natalie Twine*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_1)
     + [Structural phylogenetics (Demo Talk) by *Dr Ashar Malik*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_2)
@@ -16,6 +14,8 @@ Table of Contents
     + [3D substructure searching and comparisons: methods, applications and directions by *Assoc. Prof. Dr Mohd Firdaus Raih*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_3)
     + [Why social media matters for research now more than ever by *Michelle Mendonca*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_4)
     + [Rare disease genomics: Challenges and myths by *Dr Prashanth N Suravajhala*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_INBIOSIS_2022_1)
+    + [Sugars in the cloud: Machine learning and data science for glycobiology by *Dr Daniel Bojar*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2022_5)
+    + [Applications of long read sequencing in plant genomics by *Prof. Dr. Boas Pucker*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2022_6)
 - [Contributors](#contributors)
 
 
@@ -35,30 +35,7 @@ We are committed to providing a welcoming and inspiring platform for all. Please
 ---
 
 ## *Upcoming Activities*
-
-### Sugars in the cloud: Machine learning and data science for glycobiology
-**September 21, 2022, 5pm (SGT)**
-
-***Dr. Daniel Bojar, University of Gothenburg, Sweden***
-
-![APBTalks5](https://user-images.githubusercontent.com/51225708/190582654-91d7b800-26c6-40eb-83ba-b26c44c87eac.png)
-
-**Abstract:** <br>
-Glycans or complex carbohydrates are a universal yet understudied biological sequence with unique properties. The crucial role of glycans in autoimmunity, viral infections, cancer, microbiome development, and many other processes holds promise for translating a better understanding of glycan functions into biomedical advances. Dr. Bojar will present the efforts of his research group to achieve this. Developing and applying data science and machine learning methods for glycobiology has, among others, provided insight into glycan - protein interactions, glycan - immune interactions, and glycan - pathogen interactions. In a two-pronged approach, Dr. Bojar's group both uses new methods to discover these new facets of glycobiolgoy but also makes these methods freely available to the community via their Python package glycowork, to build a firm foundation for computational glycobiology.
-
-[Register for this talk now!](https://bit.ly/APBTalks5)
-
-### Applications of long read sequencing in plant genomics
-**October 17, 2022, 2pm (SGT)**
-
-***Prof. Dr. Boas Pucker, Institute of Plant Biology, TU Braunschweig, Germany***
-
-![APBTalks6](https://user-images.githubusercontent.com/51225708/190584554-2da22346-5e96-463c-84ea-e781fc3e9d97.png)
-
-**Abstract:** <br> 
-Long read sequencing revolutionized plant genomics, because even large and complex genomes became accessible. These third generation sequencing technologies are offered by Oxford Nanopore Technologies (ONT) and Pacific Biosciences (PacBio). Selected applications of these long read technologies will be presented in this talk with particular focus on the applied tools and approaches.
-
-[Register for this talk now!](https://bit.ly/APBTalks6)
+Stay tune for the upcoming activities. Meanwhile, you may view our previous talk from [APBioNETTalks YouTube playlist](https://www.youtube.com/playlist?list=PLM4Be87TgG8U1lx4qc1veuHynCw-fcSxi).
 
 ---
 
@@ -69,6 +46,8 @@ Long read sequencing revolutionized plant genomics, because even large and compl
 - [**3D substructure searching and comparisons: methods, applications and directions**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_3)
 - [**Why social media matters for research now more than ever**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_4)
 - [**Rare disease genomics: Challenges and myths**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_INBIOSIS_2022_1)
+- [**Sugars in the cloud: Machine learning and data science for glycobiology**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2022_5)
+- [**Applications of long read sequencing in plant genomics**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2022_6)
 
 ---
 
