@@ -8,14 +8,14 @@ Table of Contents
 - [How to Get Involved](#how-to-get-involved)
 - [Upcoming Activities](#upcoming-activities)
 - [Past Activities](#past-activities)
-    + [Revolutionising genome analysis with machine learning and cloud computing by *Dr Natalie Twine*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_1)
-    + [Structural phylogenetics (Demo Talk) by *Dr Ashar Malik*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_2)
-    + [Benchmarking de novo genome assembly methods by *Prof. Shoba Ranganathan*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_INBIOSIS_2021_1)
-    + [3D substructure searching and comparisons: methods, applications and directions by *Assoc. Prof. Dr Mohd Firdaus Raih*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_3)
-    + [Why social media matters for research now more than ever by *Michelle Mendonca*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_4)
-    + [Rare disease genomics: Challenges and myths by *Dr Prashanth N Suravajhala*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_INBIOSIS_2022_1)
-    + [Sugars in the cloud: Machine learning and data science for glycobiology by *Dr Daniel Bojar*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2022_5)
-    + [Applications of long read sequencing in plant genomics by *Prof. Dr. Boas Pucker*](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2022_6)
+    + [Revolutionising genome analysis with machine learning and cloud computing by *Dr Natalie Twine*](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_2021_1)
+    + [Structural phylogenetics (Demo Talk) by *Dr Ashar Malik*](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_2021_2)
+    + [Benchmarking de novo genome assembly methods by *Prof. Shoba Ranganathan*](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_INBIOSIS_2021_1)
+    + [3D substructure searching and comparisons: methods, applications and directions by *Assoc. Prof. Dr Mohd Firdaus Raih*](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_2021_3)
+    + [Why social media matters for research now more than ever by *Michelle Mendonca*](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_2021_4)
+    + [Rare disease genomics: Challenges and myths by *Dr Prashanth N Suravajhala*](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_INBIOSIS_2022_1)
+    + [Sugars in the cloud: Machine learning and data science for glycobiology by *Dr Daniel Bojar*](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_2022_5)
+    + [Applications of long read sequencing in plant genomics by *Prof. Dr. Boas Pucker*](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_2022_6)
 - [Contributors](#contributors)
 
 
@@ -30,7 +30,7 @@ Table of Contents
 
 **Organising or Scientific committee members:** Join our team to bring inclusive and open-access learning avenue for scientific community. Note that this is a pro bono. With your support, we hope we can continuously provide inclusive and accessible contents for you. We believe that open science will make research more reproducible, more transparent and more collaborative. Apply [here](https://bit.ly/APBioNetTalksForm2). 
 
-We are committed to providing a welcoming and inspiring platform for all. Please follow our [code of conduct](https://apbtalks.apbionet.org/code-of-conduct/) in all kind of activities related to APBioNetTalks.
+We are committed to providing a welcoming and inspiring platform for all. Please follow our [code of conduct](https://apbtalks.apbionet.org/code-of-conduct/) in all kind of activities related to APBioNETTalks.
 
 ---
 
@@ -40,14 +40,14 @@ Stay tune for the upcoming activities. Meanwhile, you may view our previous talk
 ---
 
 ## *Past Activities*
-- [**Revolutionising genome analysis with machine learning and cloud computing**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_1)
-- [**Structural phylogenetics**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_2)
-- [**Benchmarking de novo genome assembly methods**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_INBIOSIS_2021_1)
-- [**3D substructure searching and comparisons: methods, applications and directions**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_3)
-- [**Why social media matters for research now more than ever**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2021_4)
-- [**Rare disease genomics: Challenges and myths**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_INBIOSIS_2022_1)
+- [**Revolutionising genome analysis with machine learning and cloud computing**](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_2021_1)
+- [**Structural phylogenetics**](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_2021_2)
+- [**Benchmarking de novo genome assembly methods**](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_INBIOSIS_2021_1)
+- [**3D substructure searching and comparisons: methods, applications and directions**](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_2021_3)
+- [**Why social media matters for research now more than ever**](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_2021_4)
+- [**Rare disease genomics: Challenges and myths**](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_INBIOSIS_2022_1)
 - [**Sugars in the cloud: Machine learning and data science for glycobiology**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2022_5)
-- [**Applications of long read sequencing in plant genomics**](https://github.com/APBioNet/APBioNetTalks/tree/main/APBTalks_2022_6)
+- [**Applications of long read sequencing in plant genomics**](https://github.com/APBioNET/APBioNETTalks/tree/main/APBTalks_2022_6)
 
 ---
 
