@@ -36,7 +36,16 @@ We are committed to providing a welcoming and inspiring platform for all. Please
 
 ## *Upcoming Activities*
 <!-- Stay tune for the upcoming activities. Meanwhile, you may view our previous talk from [APBioNETTalks YouTube playlist](https://www.youtube.com/playlist?list=PLM4Be87TgG8U1lx4qc1veuHynCw-fcSxi). -->
+### Everything Everywhere All at Once: Lytic Polysaccharide Monooxygenases – Structure, Function, and Dynamics
+**May 16, 2024, 10.30 AM SGT**
 
+***Dr. Ragothaman M. Yennamalli, Department of Bioinformatics, School of Chemical and Biotechnology, SASTRA University, India*** 
+
+Cellulases are used by the biofuel industry for conversion of cellulose into glucose, which can be converted into bioethanol. While 1st generation biomass (starch and sugarcane) are currently established routes for production of bioethanol, the use of 2nd generation biomass (consisting of lignocellulose) is still in its infancy in India. Deconstruction of lignocellulose is a challenge that is overcome by using Celluases, a broad term for enzymes that act on Cellulose. Our focus was on two industrially important cellulases: Endoglucanases and Lytic Polysaccharide Monooxygenases (LPMO). While endoglucanase cleaves amorphous cellulose, LPMO acts on crystalline cellulose polymers.
+The talk will focus on using diverse computational research (such as Elastic Network Models, Evolutionary Analysis, Machine Learning, and RNA-Seq analysis) that were performed to understand their thermostability and structural dynamics. Specifically, elastic network models (ENM) revealed the correlation of their function with respect to thermostability in Endoglucanases, and ENM highlighted the structural dynamics of the substrate binding region of LPMOs. Similarly, evolutionary analysis of the catalytic domain of LPMOs showed the substrate specificity (cellulolytic or chitinolytic) and the implication in the AA10 family of LPMOs. Recently, we developed a machine learning-based functional annotation tool for classifying a sequence belonging to either AA9 or AA10 family of LPMOs. Currently, at SASTRA university my lab is focused on developing a knowledge base for LPMOs that implements Big Data analytics along with natural language processing.
+
+**Bio:** 
+Dr. Ragothaman M. Yennamalli is a computational biologist at SASTRA Deemed to be University at Thanjavur, Taml Nadu. He has more than a decade of experience in predictive modelling and biomolecular simulation projects. Dr. Yennamalli’s skills involve machine learning, systems biology, molecular docking, molecular dynamics simulation
 
 ---
 
