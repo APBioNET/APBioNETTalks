@@ -35,7 +35,8 @@ We are committed to providing a welcoming and inspiring platform for all. Please
 ---
 
 ## *Upcoming Activities*
-Stay tune for the upcoming activities. Meanwhile, you may view our previous talk from [APBioNETTalks YouTube playlist](https://www.youtube.com/playlist?list=PLM4Be87TgG8U1lx4qc1veuHynCw-fcSxi).
+<!-- Stay tune for the upcoming activities. Meanwhile, you may view our previous talk from [APBioNETTalks YouTube playlist](https://www.youtube.com/playlist?list=PLM4Be87TgG8U1lx4qc1veuHynCw-fcSxi). -->
+
 
 ---
 
