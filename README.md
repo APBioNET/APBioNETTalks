@@ -41,7 +41,7 @@ We are committed to providing a welcoming and inspiring platform for all. Please
 
 ***Dr. Bingxin Lu, Surrey Future Fellow, Section of Systems Biology and Surrey Institute for People-Centred AI, University of Surrey*** 
 
-![APBTalks9]()
+![APBTalks9](https://github.com/APBioNET/APBioNETTalks/blob/main/APBTalks_2024_3/APBtalks9.jpeg)
 
 **Abstract:** <br>
 Chromosomal instability (CIN), a constantly high frequency of chromosome segregation errors during cell divisions, is a major form of genome instability and plays an import role in intra-tumour heterogeneity, metastasis, and therapy resistance. CIN often leads to structural or numerical chromosomal alterations, such as structural variants and copy number alterations. Linking these alterations detected from cancer genomics data with stochastic modelling and Bayesian inference provides a powerful approach to quantify CIN in an evolutionary context, which helps to better understand cancer evolution and inform cancer treatment. In this talk, I will share our work on modelling experimental and real data with this approach.
